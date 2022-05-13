@@ -76,6 +76,19 @@ A Light Emitting Diode (LED) is a semiconductor device, which can emit light whe
 ## Power Supply
 A power supply is an electrical device that supplies electric power to an electrical load. The main purpose of a power supply is to convert electric current from a source to the correct voltage, current, and frequency to power the load. As a result, power supplies are sometimes referred to as electric power converters.
 
+# Conclusion
+
+## Conclusion
+All the results are tested positive and hardware’s are working
+fine in real time environment as far as test was done. It will give
+a new dimension of comfort and aid to the drivers who work at
+night and traffic prone areas where they already have to
+concentrate on brakes and clutch. The removal of controlling the
+wipers during rain will provide them much ease and help them
+concentrate on the basic ABC (accelerator, brake and clutch) of
+driving.
+
+
 # Folder Structure
 |Folder  |Description  |
 |--------|-------------|

@@ -92,4 +92,7 @@ A power supply is an electrical device that supplies electric power to an electr
 [![CI](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/CI.yml)
 
 [![Build windows](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/Build%20Windows.yml/badge.svg)](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/Build%20Windows.yml)
+
+[![Build Linux](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/Build%20Linux.yml/badge.svg)](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/Build%20Linux.yml)
+
                                                                          

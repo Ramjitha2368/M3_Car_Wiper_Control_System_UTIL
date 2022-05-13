@@ -85,5 +85,5 @@ A power supply is an electrical device that supplies electric power to an electr
 |3_Implementation|Documentes requires src files and souce code,Doxygen and Makefile|
 |4_TestPlan and Output|Douments with test plans and procedures|
 |5_Report|Decumentation specifying  report on project|
-|6_Images and Videos|The documents require the images and videos|
+|6_simulation|The documents require the images and videos|
                                                                          

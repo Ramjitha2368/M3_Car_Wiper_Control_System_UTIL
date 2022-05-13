@@ -86,4 +86,8 @@ A power supply is an electrical device that supplies electric power to an electr
 |4_TestPlan and Output|Douments with test plans and procedures|
 |5_Report|Decumentation specifying  report on project|
 |6_simulation|The documents require the images and videos|
+
+# SDLC ACTIVITY
+## CI PASSING
+[![CI](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/CI.yml)
                                                                          

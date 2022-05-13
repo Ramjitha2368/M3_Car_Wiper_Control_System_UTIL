@@ -1,6 +1,6 @@
 # M3_Car_Wiper_Control_System_UTIL
 # Car Wiper Control system
-# Intoduction
+# Introduction
 All automotive industries seek to provide low cost system for
 all the applications including automatic wiper system in vehicle.
 In recent time automotive industries focusing on autonomous

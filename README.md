@@ -88,6 +88,8 @@ A power supply is an electrical device that supplies electric power to an electr
 |6_simulation|The documents require the images and videos|
 
 # SDLC ACTIVITY
-## CI PASSING
+
 [![CI](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/CI.yml/badge.svg)](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/CI.yml)
+
+[![Build windows](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/Build%20Windows.yml/badge.svg)](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/Build%20Windows.yml)
                                                                          

@@ -11,3 +11,7 @@ after rainfall. The proposed system in this paper is more accurate and economica
 and middle level vehicles. In order to avoid critical situation this automatic wiper system provides variable wiping speed based on
 precipitation level. This automatic wiper system has low cost water sensor, Atmega8 microcontroller, Arduino Uno, LCD module
 and wiper motor,power cable
+
+A wiper speed control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions. The control system includes a rain sensor (30) detecting rain conditions to produce . an analog signal having an amplitude depending upon the detected rain conditions. The analog sensor signal is converted into a digital pulse signal by a converter (12) for application to a digital circuit system. A control signal is produced by digitally processing the pulse signal. The control signal is applied to a wiper driver circuit to adjust the operational speed or timing in accordance with the control signal.
+
+![wiper speed](https://user-images.githubusercontent.com/101034610/168221202-8b09d568-4807-4141-997e-0de0186d4c8f.png)

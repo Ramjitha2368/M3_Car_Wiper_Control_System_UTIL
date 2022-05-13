@@ -97,3 +97,13 @@ In P2 Header:
 GND – Pin1, Pin2, Pin49, Pin50
 
 ![pinconfig](https://user-images.githubusercontent.com/101034610/168269647-843a9dd4-8725-459f-9e6d-079da330bbc5.jpeg)
+
+## Conclusion
+All the results are tested positive and hardware’s are working
+fine in real time environment as far as test was done. It will give
+a new dimension of comfort and aid to the drivers who work at
+night and traffic prone areas where they already have to
+concentrate on brakes and clutch. The removal of controlling the
+wipers during rain will provide them much ease and help them
+concentrate on the basic ABC (accelerator, brake and clutch) of
+driving.

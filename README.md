@@ -127,3 +127,6 @@ driving.
 ![](https://api.codiga.io/project/33510/status/svg)
 ## codacy badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a6a64689e9a74f749f512a2f2b477b3b)](https://www.codacy.com/gh/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ramjitha2368/M3_Car_Wiper_Control_System_UTIL&amp;utm_campaign=Badge_Grade)
+
+![codiga](https://user-images.githubusercontent.com/101034610/168457052-8fe07dba-b6dc-4546-9a71-dea9d138b999.png)
+

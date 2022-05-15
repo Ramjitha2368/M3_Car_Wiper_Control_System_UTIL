@@ -119,3 +119,11 @@ driving.
 [![Unity Testing](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/Unity%20Testing.yml/badge.svg)](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/Unity%20Testing.yml)
 
 [![Valgrind](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/actions/workflows/Valgrind.yml)
+
+# CODIGA & CODACY BADGES
+## code quality score
+![](https://api.codiga.io/project/33510/score/svg)
+## code grade
+![](https://api.codiga.io/project/33510/status/svg)
+## codacy badge
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a6a64689e9a74f749f512a2f2b477b3b)](https://www.codacy.com/gh/Ramjitha2368/M3_Car_Wiper_Control_System_UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ramjitha2368/M3_Car_Wiper_Control_System_UTIL&amp;utm_campaign=Badge_Grade)
